@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/6UzMtAAQ/raw"))()
+getgenv().SCRIPT_KEY = "10d57909-1134-413a-bbf9-054493ec7096"
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/30fdbcc79dc8070c8fe0362cc08a417c4d63dc44ce49d405c2891a30908a8f5d/download"))()
